@@ -30,34 +30,31 @@ Ensure you have the following installed:
 - 🔹 *C++ Compiler (GCC/MinGW/Clang/MSVC)*
 
 ### 🔹 Clone the Repository  
-sh
+```sh
 git clone https://github.com/your-username/3d-classroom-opengl.git
 cd 3d-classroom-opengl
-
+```
 
 
 ### 🔹 Clone the Repository
-sh
+```sh
 git clone https://github.com/your-username/3d-classroom-opengl.git
 cd 3d-classroom-opengl
-
+```
 
 ### 🛠️ Build & Run
 #### 🔹 Linux/macOS
-sh
+```sh
 g++ main.cpp -o classroom -lGL -lGLU -lglut
 ./classroom
-
+```
 
 #### 🔹 Windows (MinGW)
-sh
+```sh
 g++ main.cpp -o classroom.exe -lfreeglut -lopengl32 -lglu32
 classroom.exe
-
-
----
-
-## 🎮 Controls
+```
+## Controls
 
 🕹 *W / A / S / D* → Move Camera  
 🕹 *Arrow Keys* → Rotate Camera  
@@ -65,21 +62,16 @@ classroom.exe
 🕹 *L* → Toggle Lighting  
 🕹 *Esc* → Exit  
 
----
-
-## 🔮 Future Enhancements
+## Future Enhancements
 
 🚀 *Textures for realistic rendering*  
 🚀 *Interactive door opening/closing*  
 🚀 *Additional classroom elements (Windows, Projector, Students)*  
 🚀 *Optimized rendering using shaders & OOP*  
 
----
-
 ## 🤝 Contributing
 
 👥 Contributions are welcome! Fork the repo, create a pull request, or suggest improvements.  
-
 📩 *Feel free to reach out for discussions and enhancements!*  
 
 ⭐ *If you like this project, consider giving it a star!* ⭐
