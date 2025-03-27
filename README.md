@@ -15,3 +15,8 @@ Our project demonstrates the power of computer graphics in creating immersive an
 2️⃣ 3D Rendering: Uses OpenGL to visualize the defined elements in real-time.
 3️⃣ Interactive Simulation: Users navigate and manipulate objects efficiently.
 4️⃣ Seamless Updates: The interface refreshes dynamically with changes.
+
+🛠 Technologies Used:
+- Programming Language: C++
+- Graphics Library: OpenGL
+- Development Tools: DevCPP
