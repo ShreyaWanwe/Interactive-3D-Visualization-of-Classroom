@@ -20,3 +20,58 @@ Our project demonstrates the power of computer graphics in creating immersive an
 - Programming Language: C++<br />
 - Graphics Library: OpenGL<br />
 - Development Tools: DevCPP
+
+# Installation & Setup
+
+# ✅ Prerequisites
+Ensure you have the following installed:
+- 🔹 *OpenGL*
+- 🔹 *GLUT (OpenGL Utility Toolkit)*
+- 🔹 *C++ Compiler (GCC/MinGW/Clang/MSVC)*
+
+### 🔹 Clone the Repository
+sh
+git clone https://github.com/your-username/3d-classroom-opengl.git
+cd 3d-classroom-opengl
+
+
+### 🛠️ Build & Run
+#### 🔹 Linux/macOS
+sh
+g++ main.cpp -o classroom -lGL -lGLU -lglut
+./classroom
+
+
+#### 🔹 Windows (MinGW)
+sh
+g++ main.cpp -o classroom.exe -lfreeglut -lopengl32 -lglu32
+classroom.exe
+
+
+---
+
+## 🎮 Controls
+
+🕹 *W / A / S / D* → Move Camera  
+🕹 *Arrow Keys* → Rotate Camera  
+🕹 *Spacebar* → Toggle Animation (Fan, Clock Hands)  
+🕹 *L* → Toggle Lighting  
+🕹 *Esc* → Exit  
+
+---
+
+## 🔮 Future Enhancements
+
+🚀 *Textures for realistic rendering*  
+🚀 *Interactive door opening/closing*  
+🚀 *Additional classroom elements (Windows, Projector, Students)*  
+🚀 *Optimized rendering using shaders & OOP*  
+
+---
+
+## 🤝 Contributing
+
+👥 Contributions are welcome! Fork the repo, create a pull request, or suggest improvements.  
+📩 *Feel free to reach out for discussions and enhancements!*  
+
+⭐ *If you like this project, consider giving it a star!* ⭐
