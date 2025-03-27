@@ -29,6 +29,13 @@ Ensure you have the following installed:
 - 🔹 *GLUT (OpenGL Utility Toolkit)*
 - 🔹 *C++ Compiler (GCC/MinGW/Clang/MSVC)*
 
+### 🔹 Clone the Repository  
+sh
+git clone https://github.com/your-username/3d-classroom-opengl.git
+cd 3d-classroom-opengl
+
+
+
 ### 🔹 Clone the Repository
 sh
 git clone https://github.com/your-username/3d-classroom-opengl.git
@@ -47,6 +54,9 @@ sh
 g++ main.cpp -o classroom.exe -lfreeglut -lopengl32 -lglu32
 classroom.exe
 
+
+---
+
 ## 🎮 Controls
 
 🕹 *W / A / S / D* → Move Camera  
@@ -55,6 +65,8 @@ classroom.exe
 🕹 *L* → Toggle Lighting  
 🕹 *Esc* → Exit  
 
+---
+
 ## 🔮 Future Enhancements
 
 🚀 *Textures for realistic rendering*  
@@ -62,9 +74,12 @@ classroom.exe
 🚀 *Additional classroom elements (Windows, Projector, Students)*  
 🚀 *Optimized rendering using shaders & OOP*  
 
+---
+
 ## 🤝 Contributing
 
 👥 Contributions are welcome! Fork the repo, create a pull request, or suggest improvements.  
+
 📩 *Feel free to reach out for discussions and enhancements!*  
 
 ⭐ *If you like this project, consider giving it a star!* ⭐
