@@ -23,7 +23,7 @@ Our project demonstrates the power of computer graphics in creating immersive an
 
 # Installation & Setup
 
-# ✅ Prerequisites
+✅ Prerequisites
 Ensure you have the following installed:
 - 🔹 *OpenGL*
 - 🔹 *GLUT (OpenGL Utility Toolkit)*
@@ -47,9 +47,6 @@ sh
 g++ main.cpp -o classroom.exe -lfreeglut -lopengl32 -lglu32
 classroom.exe
 
-
----
-
 ## 🎮 Controls
 
 🕹 *W / A / S / D* → Move Camera  
@@ -58,16 +55,12 @@ classroom.exe
 🕹 *L* → Toggle Lighting  
 🕹 *Esc* → Exit  
 
----
-
 ## 🔮 Future Enhancements
 
 🚀 *Textures for realistic rendering*  
 🚀 *Interactive door opening/closing*  
 🚀 *Additional classroom elements (Windows, Projector, Students)*  
 🚀 *Optimized rendering using shaders & OOP*  
-
----
 
 ## 🤝 Contributing
 
